@@ -1,1 +1,1 @@
-# Repository contains hw
+# Repository contains homeworks for Informational Retrieval course
