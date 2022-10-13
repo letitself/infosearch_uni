@@ -16,7 +16,7 @@ HW 3
 HW 4
 **bm25: 0.0766**
 **bert: 0.0064**
-- preprocess.py (preprocessing, also tfidf + fasttext)
+- preprocess.py (preprocessing, also bert tfidf fst text)
 - main.py (initialisation of programm)
 - score.py (counting score for a searches)
-- search.py (function of searching, also matrix, cos_sim)
+- search.py (function of searching)
